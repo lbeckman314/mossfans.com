@@ -1,4 +1,4 @@
-> [!NOTE]
+> [!TIP]
 > Currently growing... 🌱🌱🌱
 
 # mossfans.com
