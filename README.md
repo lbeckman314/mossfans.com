@@ -1,5 +1,5 @@
 > [!TIP]
-> Currently growing... 🌱🌱🌱
+> 🌱 Currently growing into something beautiful... 🌱
 
 # mossfans.com
 
