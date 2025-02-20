@@ -6,6 +6,6 @@ layout: default
 ---
 
 <div class="container">
-  <div class="item">🌱 Growing... 🌱</div>
-  <div class="item"><a href="https://github.com/lbeckman314/mossfans.com">Source</a></div>
+  <p>🌱 Currently growing into something beautiful... 🌱</p>
+  <a href="https://github.com/lbeckman314/mossfans.com">Source</a>
 </div>
